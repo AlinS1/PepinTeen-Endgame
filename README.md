@@ -1,3 +1,3 @@
 # PepinTeen-Endgame
 
-Deschideti Main Page.
+Deschideti Main Page in Chrome.
